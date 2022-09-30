@@ -1,4 +1,5 @@
-[1:22 pm, 27/09/2022] N. Jagan Mohan Reddy: #include<string.h>#include<stdio.h>
+ #include<stdio.h>
+ #include<string.h>
 
 int main()
 {
